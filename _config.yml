@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: foundations-computation
-description: "a learn-static tool for teaching the basics of Jekyll, Liquid, and computational methods"
-year: 2021
-author: learn-static
+title: pet town
+description: "these R pets"
+year: 2023
+author: aweymo
 
 ##########
 # location of code, the full url to your github repository
